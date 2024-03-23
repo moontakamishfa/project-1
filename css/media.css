@@ -1,0 +1,580 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ /*header start*//*
+.li {
+    padding-right: 50px;
+}*/
+
+.menu ul li a{
+    margin-bottom: 6px;
+    padding: 0 10px !imortant;
+}
+.title {
+    padding-top: 45px;
+    font-size: 20px;
+}
+.sub_title {
+    font-size: 15px;
+    line-height: 23px;
+    padding: 0 0px;
+}
+.search {
+    padding-top: 92px;
+}
+.c_form {
+    font-size: 15px;
+    padding: 15px 0px;
+    padding-left: 5px;
+}
+.find {
+    font-size: 15px;
+    padding: 10px 0px;
+    top: 7px;
+    right: 4px;
+}
+.h_icon {
+    font-size: 14px;
+    padding-left: 3px;
+}
+/*.c_button{
+    margin-left: 5px;
+}*/
+/*banner start*/
+.banner {
+    padding: 65px 0 0;
+}
+/*.b_img {
+/*    text-align: center;*/
+    /*margin-bottom: 30px;
+}
+.image1 {
+    width: 205px;
+    height: 305px;
+    top: 10px;
+    left: 20px;
+}
+.image2 {
+    width: 190px;
+    height: 260px;
+    top: 71px;
+    left: 218px;
+}
+.image3 {
+    width: 165px;
+    height: 230px;
+    top: -3px;
+    left: 341px;
+}*/
+.image1, .image2, .image3{
+    display: none;
+}
+.b_content{
+   text-align: center;
+}
+.b_h3 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+    padding: 0 0px 0 0;
+}
+
+  .b_p2 {
+    font-size: 15px;
+    padding-right: 0px;
+}
+.items {
+    padding: 15px 0;
+}
+.b_p3 {
+    font-size: 17px;
+}
+.bp{
+  font-size: 15px;  
+}
+
+/*banner end*/
+/*feature start*/
+.c_padding {
+    padding: 0 0 65px;
+}
+
+.f_h2 {
+    font-size: 17px;
+    margin: 5px 12px 5px;
+}
+
+.f_h3{
+    font-size: 20px;
+}
+.lit{
+    margin-right: 0 !important;
+}
+.f_left ul li p {
+    font-size: 15px;
+}
+.f_right ul li p {
+    font-size: 15px;
+    line-height: 29px;
+}
+/*feature end*/
+
+/*testimony start*/
+.t_item{
+    text-align: center;
+    margin-top: 25px;
+    padding: 10px 0px 10px;
+}
+.test_p{
+    font-size: 18px;
+}
+.t_p {
+    font-size: 15px;
+    margin: 15px 0 5px;
+    line-height: 23px;
+}
+/*testimony end*/
+/*footer top start*/
+.footer_top{
+    padding: 55px 0 20px;
+    text-align: center;
+}
+.ft_details {
+    margin-bottom: 30px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.ft_details p {
+    font-size: 15px;
+    margin-top: 20px;
+}
+.c_ul {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.ft_links ul li a {
+    margin-bottom: 5px;
+}
+/*footer top end*/
+footer p{
+    text-align: center;
+}
+.f_icon{
+    text-align: center;
+}
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*//*
+.li {
+    padding-right: 50px;
+}*/
+
+.menu ul li a{
+    margin-bottom: 6px;
+    padding: 0 10px !imortant;
+}
+.title {
+    padding-top: 50px;
+    font-size: 35px;
+}
+.sub_title {
+    font-size: 15px;
+    line-height: 23px;
+    padding: 0 15px;
+}
+.search {
+    padding-top: 116px;
+}
+
+/*banner start*/
+.banner {
+    padding: 70px 0 360px;
+}
+.b_img {
+/*    text-align: center;*/
+    margin-bottom: 30px;
+}
+.image1 {
+    width: 205px;
+    height: 305px;
+    top: 10px;
+    left: 20px;
+}
+.image2 {
+    width: 190px;
+    height: 260px;
+    top: 71px;
+    left: 218px;
+}
+.image3 {
+    width: 165px;
+    height: 230px;
+    top: -3px;
+    left: 341px;
+}
+.b_content{
+   text-align: center;
+}
+.b_h3 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+    padding: 0 15px 0 0;
+}
+
+  .b_p2 {
+    font-size: 15px;
+    padding-right: 0px;
+}
+.items {
+    padding: 25px 70px;
+}
+.b_p3 {
+    font-size: 20px;
+}
+.bp{
+  font-size: 15px;  
+}
+
+/*banner end*/
+/*feature start*/
+.c_padding {
+    padding: 0 0 75px;
+}
+
+.f_h2 {
+    font-size: 17px;
+    margin: 5px 12px 5px;
+}
+
+.f_h3{
+    font-size: 25px;
+}
+.lit{
+    margin-right: 0 !important;
+}
+.f_left ul li p {
+    font-size: 15px;
+}
+.f_right ul li p {
+    font-size: 15px;
+    line-height: 29px;
+}
+/*feature end*/
+
+/*testimony start*/
+.t_item{
+    margin-top: 30px;
+    padding: 10px 0px 10px;
+}
+.test_p{
+    font-size: 18px;
+}
+.t_p {
+    font-size: 15px;
+    margin: 15px 0 5px;
+    line-height: 23px;
+}
+/*testimony end*/
+/*footer top start*/
+.footer_top{
+    text-align: center;
+}
+.ft_details{
+    margin-bottom: 35px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+.ft_details p {
+    font-size: 15px;
+    margin-top: 20px;
+}
+.c_ul {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.ft_links ul li a {
+    margin-bottom: 5px;
+}
+/*footer top end*/
+footer p{
+    text-align: center;
+}
+.f_icon{
+    text-align: center;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*//*
+.li {
+    padding-right: 50px;
+}*/
+
+.menu ul li a{
+	margin-bottom: 6px;
+	padding: 0 10px !imortant;
+}
+.title {
+    padding-top: 50px;
+    font-size: 40px;
+}
+.sub_title {
+    padding: 0 15px;
+}
+.search {
+    padding-top: 116px;
+}
+/*.c_button{
+	margin-left: 5px;
+}*/
+/*banner start*/
+.banner {
+    padding: 75px 0 365px;
+}
+.b_img {
+/*    text-align: center;*/
+    margin-bottom: 30px;
+}
+.image1 {
+    width: 205px;
+    height: 305px;
+    top: 10px;
+    left: 97px;
+}
+.image2 {
+    width: 190px;
+    height: 260px;
+    top: 72px;
+    left: 298px;
+}
+.image3{
+    width: 165px;
+    height: 230px;
+    top: -2px;
+    left: 427px;
+}
+.b_content{
+   text-align: center;
+}
+.b_h3 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+    padding: 0 15px 0 0;
+}
+
+  .b_p2 {
+    font-size: 15px;
+    padding-right: 10px;
+}
+.items {
+    padding: 25px 90px;
+}
+.b_p3 {
+    font-size: 20px;
+}
+.bp{
+  font-size: 15px;  
+}
+
+/*banner end*/
+/*feature start*/
+.c_padding {
+    padding: 0 0 75px;
+}
+.f_h2 {
+    margin: 10px 12px 10px;
+}
+/*feature end*/
+
+/*testimony start*/
+.t_item{
+    margin-top: 40px;
+}
+.test_p{
+	font-size: 20px;
+}
+.t_p {
+    font-size: 15px;
+    margin: 15px 0 5px;
+    line-height: 23px;
+}
+/*testimony end*/
+/*footer top start*/
+.footer_top{
+	text-align: center;
+}
+.ft_details{
+	margin-bottom: 35px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+.ft_details p {
+    font-size: 15px;
+    margin-top: 20px;
+}
+.c_ul {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.ft_links ul li a {
+    margin-bottom: 5px;
+}
+/*footer top end*/
+footer p{
+	text-align: center;
+}
+.f_icon{
+	text-align: center;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header*/
+.li {
+    padding-right: 50px;
+}
+.title {
+    padding-top: 225px;
+    font-size: 43px;
+}
+.sub_title {
+    padding: 0 165px;
+}
+/*header*/
+/*	banner*/
+.banner {
+    padding: 80px 0 80px;
+  }
+
+  .image1 {
+    width: 225px;
+    height: 340px;
+    top: -160px;
+}
+
+  .image2 {
+    width: 170px;
+    height: 265px;
+    top: -80px;
+    left: 216px;
+}
+
+  .image3 {
+    width: 155px;
+    height: 234px;
+    top: -160px;
+    left: 326px;
+}
+
+  .b_content {
+    padding-left: 20px;
+  }
+
+  .b_h3 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+    padding: 0 15px 0 0;
+}
+
+  .b_p2 {
+    font-size: 15px;
+    padding-right: 10px;
+}
+.b_p3 {
+    font-size: 20px;
+}
+.bp{
+	font-size: 15px;
+}
+
+/*banner*/
+/*testimony start*/
+.c_padding {
+    padding: 0 0 80px;
+}
+.lit:not(:last-child){
+	margin-right: 0;
+}
+.test_p{
+	font-size: 20px;
+}
+.t_p {
+    margin: 30px -5px 5px;
+    line-height: 25px;
+}
+/*testimony end*/
+/*footer start*/
+.ft_details p {
+    line-height: 17px;
+    font-size: 15px;
+}
+.c_ul {
+    font-size: 15px;
+    margin-top: 25px;
+}
+footer p{
+	font-size: 18px;
+}
+/*footer end*/
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*header*/
+.li {
+    padding-right: 110px;
+}
+.title {
+    padding-top: 225px;
+}
+.sub_title {
+    padding: 0 206px;
+}
+/*header*/
+/* banner */
+  .banner {
+    padding: 80px 0 90px;
+  }
+
+  .image1 {
+    width: 258px;
+    height: 410px;
+    top: -207px;
+  }
+
+  .image2 {
+    width: 195px;
+    height: 286px;
+    top: -95px;
+    left: 250px;
+  }
+
+  .image3 {
+    width: 175px;
+    height: 280px;
+    top: -207px;
+    left: 377px;
+  }
+
+  .b_content {
+    padding-left: 10px;
+  }
+
+  .b_h3 {
+    margin: 10px 0 10px;
+    padding: 0 15px 0 0;
+  }
+
+  .b_p2 {
+    padding-right: 50px;
+  }
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+}
